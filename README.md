@@ -1,10 +1,10 @@
 ### Argel Ramírez Reyes. Atmospheric Science PhD Student at UC Davis
 
-I try to understand how tropical cyclones work and form, and in general the atmospheric fluid dynamics.
+* I try to understand how tropical cyclones work and form, and in general the atmospheric fluid dynamics.
 
-I like using #JuliaLang and big computers.
+* I like using #JuliaLang and big computers.
 
-Can I publish my first paper with a nice, reproducible code base?
+* Can I publish my first paper with a nice, reproducible code base?
 
 <!--
 **aramirezreyes/aramirezreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
