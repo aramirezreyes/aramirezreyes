@@ -1,4 +1,4 @@
-### Argel Ramírez Reyes. Atmospheric Science PhD Student at UC Davis
+### Argel Ramírez Reyes. Atmospheric Science PhD candidate at UC Davis
 
 * I try to understand how tropical cyclones work and form, and in general the atmospheric fluid dynamics.
 
