@@ -1,12 +1,8 @@
 ### Argel Ramírez Reyes. Tropical cyclone modeler.
 
-* I try to understand how tropical cyclones work and form, and in general the atmospheric fluid dynamics.
-
-* Currently, I try and model TC behaviour using statistical methods.
+* Tropical cyclones using  physical and statistical models
 
 * I like using #JuliaLang and big computers.
-
-* Can I publish my papers with a nice, reproducible code base?
 
 <!--
 **aramirezreyes/aramirezreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
